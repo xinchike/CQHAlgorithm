@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.title = @"Lock Demo";
+    self.title = @"Demo";
     self.tableView.delegate = self;
     self.tableView.dataSource = self;
     
